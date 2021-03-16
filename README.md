@@ -5,6 +5,6 @@ A BackEnd Authentication with password hash and jwt tokens
 the authentication is built using Javascript, Express.js, Mongoose
 
 ### packages:
--bcryptjs for hashing passwords
--joi for data validation
--jsonwebtoken for user logged in validation
+*bcryptjs for hashing passwords
+*joi for data validation
+*jsonwebtoken for user logged in validation
